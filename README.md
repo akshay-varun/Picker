@@ -1,12 +1,12 @@
-Why this project for?
+**Why this project for?**
 
 It's very difficult when teacher let students to select the topics for either project or seminar globally. Students may have different ideas or few students or a team or an individual can have same idea. It's time consuming if students are reporting the ideas or topics to the teachers or CR's individually.
 
 So there might be chance overlapping of same topic or a project idea. To solve this problem the teachers needs an solution that can take care of all these.
 
-How it's Solved?
+**How it's Solved?**
 
-Teacher Dashboard:
+_**Teacher Dashboard:**_
 
 ● Teacher will register to picker once.
 
@@ -21,7 +21,7 @@ class code with students.
 
 ● Teachers will be able to see all the submissions of students.
 
-Student Dashboard:
+_**Student Dashboard:**_
 
 ● Student will register to picker once.
 
