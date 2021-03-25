@@ -1,0 +1,17 @@
+.logout{
+    color: #d8decd;
+    background-color: #37474f ;
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    right: 50px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+table{
+    background-color: #B0C4DE;
+}
+tr>td{
+    font-size: 20px;
+}
